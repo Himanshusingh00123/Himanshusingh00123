@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Himanshu Singh — Brutalist Developer Profile</title>
+  <desc id="desc">A Swiss brutalist GitHub profile banner with a black name slab, yellow statement slab, registration marks, and four index cells.</desc>
+
+  <!-- Bone paper -->
+  <rect width="1600" height="720" fill="#e9e6df"/>
+
+  <!-- Registration ticks -->
+  <g fill="#0a0a0a">
+    <rect x="80" y="30" width="2" height="22"/>
+    <rect x="150" y="30" width="2" height="14"/>
+    <rect x="220" y="30" width="2" height="22"/>
+    <rect x="290" y="30" width="2" height="14"/>
+    <rect x="360" y="30" width="2" height="22"/>
+    <rect x="430" y="30" width="2" height="14"/>
+    <rect x="500" y="30" width="2" height="22"/>
+    <rect x="570" y="30" width="2" height="14"/>
+    <rect x="640" y="30" width="2" height="22"/>
+    <rect x="710" y="30" width="2" height="14"/>
+    <rect x="780" y="30" width="2" height="22"/>
+    <rect x="850" y="30" width="2" height="14"/>
+    <rect x="920" y="30" width="2" height="22"/>
+    <rect x="990" y="30" width="2" height="14"/>
+    <rect x="1060" y="30" width="2" height="22"/>
+    <rect x="1130" y="30" width="2" height="14"/>
+    <rect x="1200" y="30" width="2" height="22"/>
+    <rect x="1270" y="30" width="2" height="14"/>
+    <rect x="1340" y="30" width="2" height="22"/>
+    <rect x="1410" y="30" width="2" height="14"/>
+    <rect x="1480" y="30" width="2" height="22"/>
+  </g>
+
+  <!-- Main black slab -->
+  <rect x="80" y="85" width="980" height="300" fill="#0a0a0a"/>
+
+  <!-- Name -->
+  <text x="125" y="205"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="92"
+        font-weight="900"
+        letter-spacing="-3"
+        fill="#e9e6df">HIMANSHU</text>
+
+  <text x="125" y="300"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="92"
+        font-weight="900"
+        letter-spacing="-3"
+        fill="#e9e6df">SINGH</text>
+
+  <!-- Role -->
+  <text x="130" y="348"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="700"
+        letter-spacing="4"
+        fill="#e9e6df">SOFTWARE DEVELOPER / BUILDER</text>
+
+  <!-- Yellow overlapping slab -->
+  <rect x="820" y="285" width="620" height="210" fill="#ffd400" stroke="#0a0a0a" stroke-width="6"/>
+
+  <text x="860" y="335"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="27"
+        font-weight="900"
+        letter-spacing="1"
+        fill="#0a0a0a">NO FLUFF.</text>
+
+  <text x="860" y="375"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="27"
+        font-weight="900"
+        letter-spacing="1"
+        fill="#0a0a0a">JUST CODE,</text>
+
+  <text x="860" y="415"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="27"
+        font-weight="900"
+        letter-spacing="1"
+        fill="#0a0a0a">PRODUCTS &amp; IDEAS.</text>
+
+  <text x="860" y="462"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15"
+        font-weight="700"
+        letter-spacing="2"
+        fill="#5c5851">BUILD / BREAK / REPEAT</text>
+
+  <!-- Four brutalist index cells -->
+  <g stroke="#0a0a0a" stroke-width="6" fill="#e9e6df">
+    <rect x="80" y="500" width="360" height="150"/>
+    <rect x="440" y="500" width="360" height="150"/>
+    <rect x="800" y="500" width="360" height="150"/>
+    <rect x="1160" y="500" width="360" height="150"/>
+  </g>
+
+  <!-- Cell 1 -->
+  <text x="110" y="535"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="900"
+        letter-spacing="2"
+        fill="#5c5851">01 / BUILD</text>
+  <text x="110" y="600"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="43"
+        font-weight="900"
+        fill="#0a0a0a">CODE</text>
+  <text x="110" y="628"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        font-weight="700"
+        letter-spacing="1"
+        fill="#5c5851">FROM IDEA TO SHIPPED</text>
+
+  <!-- Cell 2 -->
+  <text x="470" y="535"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="900"
+        letter-spacing="2"
+        fill="#5c5851">02 / SHIP</text>
+  <text x="470" y="600"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="43"
+        font-weight="900"
+        fill="#0a0a0a">FAST</text>
+  <text x="470" y="628"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        font-weight="700"
+        letter-spacing="1"
+        fill="#5c5851">ITERATE / IMPROVE</text>
+
+  <!-- Cell 3 -->
+  <text x="830" y="535"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="900"
+        letter-spacing="2"
+        fill="#5c5851">03 / LEARN</text>
+  <text x="830" y="600"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="43"
+        font-weight="900"
+        fill="#0a0a0a">ALWAYS</text>
+  <text x="830" y="628"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        font-weight="700"
+        letter-spacing="1"
+        fill="#5c5851">CURIOUS BY DEFAULT</text>
+
+  <!-- Cell 4 -->
+  <text x="1190" y="535"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="900"
+        letter-spacing="2"
+        fill="#5c5851">04 / STATUS</text>
+  <text x="1190" y="600"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="43"
+        font-weight="900"
+        fill="#0a0a0a">ONLINE</text>
+  <text x="1190" y="628"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        font-weight="700"
+        letter-spacing="1"
+        fill="#5c5851">MAKING SOMETHING</text>
+</svg>
